@@ -14,7 +14,7 @@ A web-based application for generating professional ID cards with customizable t
 
 ## Demo
 
-Visit the live application: [ID Card Generator](https://hackermohan12.github.io/getidcard/)
+Visit the live application: [ID Card Generator](https://getidcard.paudelmohan.com.np/)
 
 ## Getting Started
 
