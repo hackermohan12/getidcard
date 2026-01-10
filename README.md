@@ -129,9 +129,6 @@ Project Link: [https://github.com/hackermohan12/getidcard](https://github.com/ha
 - Inspired by the need for quick and easy ID card generation
 - Built with ❤️ for educational and professional use
 
-## Screenshots
-
-
 ---
 
 **Note**: This tool is for legitimate use only. Please ensure you have proper authorization before creating ID cards for any organization.
